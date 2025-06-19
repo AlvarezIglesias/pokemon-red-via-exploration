@@ -1,5 +1,4 @@
-# pokemon-red-via-exploration
-Exploration-Driven Reinforcement Learning in RPG Video Games: A Case Study of Pokémon Red
+# Exploration-Driven Reinforcement Learning in RPG Video Games: A Case Study of Pokémon Red
 
 This project evaluates the use of direct map exploration as the sole reward of a reinforcement learning training in Pokémon Red, while using a purely visual aproeach, without any RAM accesses. Exploration is measured by the portion of the map an agent has seen. Results show that this reward is enough to defeat the first Gym leader and reach Mt. Moon with the correct setup. At the same time, the resulting agent also works as an automatic mapping agent, keeping track of dialogs, Pokémon encounters and interiors.
 
